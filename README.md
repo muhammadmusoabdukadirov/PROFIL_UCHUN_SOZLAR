@@ -28,6 +28,8 @@ One day the sun you've been waiting for will rise. Just don't lose hope.
 📌 Telegram:
 
 <a href="https://t.me/Abduqodirov_M" target="_blank" class="telegram-btn">
-    <img src="{% static 'img/telegram.png' %}" alt="Telegram">
+    <img src="https://ubuntuhandbook.org/wp-content/uploads/2024/01/telegram-icon.webp" 
+         width="20" 
+         alt="Telegram">
     <span>@Abduqodirov_M</span>
 </a>
