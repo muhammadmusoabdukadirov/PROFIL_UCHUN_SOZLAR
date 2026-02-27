@@ -25,7 +25,9 @@ One day the sun you've been waiting for will rise. Just don't lose hope.
 
 ### Meni Instagram sahifam 📸  
 
-📌 Instagram:  
-<a href="https://t.me/Abduqodirov_M/" target="_blank"> 
-    <img src="" width="20px" alt="Telegram">
+📌 Telegram:
+
+<a href="https://t.me/Abduqodirov_M" target="_blank" class="telegram-btn">
+    <img src="{% static 'img/telegram.png' %}" alt="Telegram">
+    <span>@Abduqodirov_M</span>
 </a>
